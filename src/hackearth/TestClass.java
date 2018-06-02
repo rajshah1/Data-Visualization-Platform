@@ -30,6 +30,8 @@ class TestClass {
         
 
         // Write your code here
+//this is a data
+
        String[] a =name.split(" ");
         for(String b:a){
         	System.out.println(b.trim());
